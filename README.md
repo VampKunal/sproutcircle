@@ -14,6 +14,19 @@
 - 🧑‍🏫 **Admin Console** – Teachers and admins upload/manage content.
 
 ---
+## 📸 Preview
+
+![Screenshot 2025-06-23 152005](https://github.com/user-attachments/assets/f4eab620-a6d3-4644-a520-f76982a83401)
+
+![Screenshot 2025-06-23 152022](https://github.com/user-attachments/assets/b8e3866e-9991-4bcb-98e4-c25e0784ce43)
+
+![Screenshot 2025-06-23 152035](https://github.com/user-attachments/assets/8fee9615-1359-49d8-826d-500a7b18e989)
+
+![Screenshot 2025-06-23 152045](https://github.com/user-attachments/assets/680564f7-794c-4bb8-93a8-11aae5fc9097)
+
+
+
+
 
 ## 🛠️ Tech Stack
 
